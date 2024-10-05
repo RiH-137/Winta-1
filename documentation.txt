@@ -1,0 +1,28 @@
+* using vite--> npm create vite@latest
+
+* select project name is frontend
+
+* select React
+
+* select Js
+
+* cd front
+
+* npm install
+
+*npm run dev
+
+* npm install react-router-dom react-tostify --> for multiple routes 
+    --> for toast msg (packages)
+
+
+* search tailwind + vite and follow all the steps
+
+* src-> pages (folder) --> contains pages
+        context --> handling logics
+        components --> handling components
+        
+
+
+
+
